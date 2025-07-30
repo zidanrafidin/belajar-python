@@ -1,7 +1,4 @@
 """
-Ringkasan materi kondisi yang saya dapat setelah belajar:
-Pernyataan kondisional 'if', 'elif', 'else' dalam Python
-
 - 'if': Jalankan kode JIKA kondisi True.
 - 'elif': Jalankan kode JIKA 'if' sebelumnya False DAN kondisi 'elif' ini True.
 - 'else': Jalankan kode JIKA SEMUA kondisi di atasnya False.
