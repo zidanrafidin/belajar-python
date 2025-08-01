@@ -44,3 +44,18 @@ for i in range(0, 10, 2):
 # Kelipatan 2: 4
 # Kelipatan 2: 6
 # Kelipatan 2: 8
+
+# 5. Nested loop dengan for + range
+print("Contoh 6: Nested loop segitiga bintang")
+baris = 5
+for i in range(baris):
+    for j in range(i + 1):
+        print("*", end=" ")
+    print()
+
+# Output:
+# *
+# * *
+# * * *
+# * * * *
+# * * * * *
