@@ -67,8 +67,6 @@ for name in student_grades:
 
 # 5. Iterasi langsung pada set
 # **Set** itu koleksi item yang nggak punya urutan dan nggak boleh ada yang dobel.
-# Pas diiterasi, semua elemen unik di set bakal diakses,
-# tapi inget ya, urutannya nggak dijamin bakal sama tiap kali diulang.
 
 print("\nContoh 5: Perulangan pada set")
 unique_numbers = {1, 5, 2, 5, 3}
