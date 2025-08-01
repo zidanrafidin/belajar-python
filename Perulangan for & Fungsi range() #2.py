@@ -68,7 +68,7 @@ for name in student_grades:
 # 5. Iterasi langsung pada set
 # **Set** itu koleksi item yang nggak punya urutan dan nggak boleh ada yang dobel.
 
-print("\nContoh 5: Perulangan pada set")
+print("Contoh 5: Perulangan pada set")
 unique_numbers = {1, 5, 2, 5, 3}
 for num in unique_numbers:
     print("Angka unik:", num)
