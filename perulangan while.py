@@ -28,3 +28,4 @@ while i < n:
 
 # while dan for sekilas memang terlihat sama namun yang menjadi pembeda adalah :
 # Loop "for" digunakan saat sudah tahu pasti berapa kali pengulangan itu akan terjadi.
+# Loop "while" digunakan saat kamu tidak tahu pasti berapa kali pengulangan akan terjadi.
