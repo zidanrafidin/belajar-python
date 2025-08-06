@@ -26,3 +26,5 @@ while i < n:
     print("number", i)
     i += 1
 
+# while dan for sekilas memang terlihat sama namun yang menjadi pembeda adalah :
+# Loop "for" digunakan saat sudah tahu pasti berapa kali pengulangan itu akan terjadi.
