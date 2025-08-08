@@ -20,3 +20,9 @@ for i in range(10):
         continue
     print("number", i)
 print("selesai")
+# output :
+# number 5
+# number 6
+# number 7
+# number 8
+# number 9
